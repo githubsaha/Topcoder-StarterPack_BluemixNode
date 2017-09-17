@@ -3,6 +3,6 @@ applications:
   memory: 256M
   instances: 1
   domain: au-syd.mybluemix.net
-  name: Project Bluemix 1
-  host: Project-Bluemix-1
+  name: tc saha topcoder 01hw
+  host: tc-saha-topcoder-01hw
   disk_quota: 1024M
