@@ -21,10 +21,10 @@ export default TestService;
 
 /**
  * Test method
- * @returns {{success: Boolean}} the test result
+ * @returns {{success: String}} the test result
  */
 async function testMethod() {
-  return await Promise.resolve({success: true});
+  return await Promise.resolve({success: "Saikat"});
 }
 
 testMethod.schema = {
